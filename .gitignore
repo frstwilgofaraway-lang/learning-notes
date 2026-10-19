@@ -1,0 +1,17 @@
+# 编辑器/系统杂项
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# 临时文件
+*.tmp
+*.bak
+~$*
+
+# 万一以后放代码片段
+node_modules/
+.env
+*.log
